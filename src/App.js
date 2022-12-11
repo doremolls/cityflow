@@ -6,7 +6,7 @@ import SectionFour from './components/SectionFour';
 import SectionNine from './components/SectionNine';
 import SectionSeven from './components/SectionSeven';
 import SectionSix from './components/SectionSix';
-import SectionTen from './components/SectionTen';
+import SectionTen from './components/SectionTen';  
 import SectionThree from './components/SectionThree';
 import SectionTweleve from './components/SectionTweleve';
 import SectionTwo from './components/SectionTwo';
